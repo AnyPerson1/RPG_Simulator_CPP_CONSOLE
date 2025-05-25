@@ -11,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{F6634AD7-EDD9-447E-B7C4-3C5234A24169}|mini_rpg_simulator\\mini_rpg_simulator.vcxproj|solutionrelative:mini_rpg_simulator\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6634AD7-EDD9-447E-B7C4-3C5234A24169}|mini_rpg_simulator\\mini_rpg_simulator.vcxproj|C:\\Users\\arda4\\Desktop\\Github\\RPG_Simulator_CPP_CONSOLE\\mini_rpg_simulator\\mini_rpg_simulator\\mini_rpg_simulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6634AD7-EDD9-447E-B7C4-3C5234A24169}|mini_rpg_simulator\\mini_rpg_simulator.vcxproj|solutionrelative:mini_rpg_simulator\\mini_rpg_simulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F6634AD7-EDD9-447E-B7C4-3C5234A24169}|mini_rpg_simulator\\mini_rpg_simulator.vcxproj|C:\\Users\\arda4\\Desktop\\Github\\RPG_Simulator_CPP_CONSOLE\\mini_rpg_simulator\\mini_rpg_simulator\\worldController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6634AD7-EDD9-447E-B7C4-3C5234A24169}|mini_rpg_simulator\\mini_rpg_simulator.vcxproj|solutionrelative:mini_rpg_simulator\\worldController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6634AD7-EDD9-447E-B7C4-3C5234A24169}|mini_rpg_simulator\\mini_rpg_simulator.vcxproj|C:\\Users\\arda4\\Desktop\\Github\\RPG_Simulator_CPP_CONSOLE\\mini_rpg_simulator\\mini_rpg_simulator\\worldController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F6634AD7-EDD9-447E-B7C4-3C5234A24169}|mini_rpg_simulator\\mini_rpg_simulator.vcxproj|solutionrelative:mini_rpg_simulator\\worldController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6634AD7-EDD9-447E-B7C4-3C5234A24169}|mini_rpg_simulator\\mini_rpg_simulator.vcxproj|C:\\Users\\arda4\\Desktop\\Github\\RPG_Simulator_CPP_CONSOLE\\mini_rpg_simulator\\mini_rpg_simulator\\mini_rpg_simulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6634AD7-EDD9-447E-B7C4-3C5234A24169}|mini_rpg_simulator\\mini_rpg_simulator.vcxproj|solutionrelative:mini_rpg_simulator\\mini_rpg_simulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "worldController.h",
+              "DocumentMoniker": "C:\\Users\\arda4\\Desktop\\Github\\RPG_Simulator_CPP_CONSOLE\\mini_rpg_simulator\\mini_rpg_simulator\\worldController.h",
+              "RelativeDocumentMoniker": "mini_rpg_simulator\\worldController.h",
+              "ToolTip": "C:\\Users\\arda4\\Desktop\\Github\\RPG_Simulator_CPP_CONSOLE\\mini_rpg_simulator\\mini_rpg_simulator\\worldController.h",
+              "RelativeToolTip": "mini_rpg_simulator\\worldController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-25T21:41:30.808Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +53,7 @@
               "RelativeDocumentMoniker": "mini_rpg_simulator\\Enemy.h",
               "ToolTip": "C:\\Users\\arda4\\Desktop\\Github\\RPG_Simulator_CPP_CONSOLE\\mini_rpg_simulator\\mini_rpg_simulator\\Enemy.h",
               "RelativeToolTip": "mini_rpg_simulator\\Enemy.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-25T21:28:20.033Z",
               "EditorCaption": ""
@@ -49,9 +66,10 @@
               "RelativeDocumentMoniker": "mini_rpg_simulator\\worldController.cpp",
               "ToolTip": "C:\\Users\\arda4\\Desktop\\Github\\RPG_Simulator_CPP_CONSOLE\\mini_rpg_simulator\\mini_rpg_simulator\\worldController.cpp",
               "RelativeToolTip": "mini_rpg_simulator\\worldController.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-25T21:20:05.244Z"
+              "WhenOpened": "2025-05-25T21:20:05.244Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,9 +79,10 @@
               "RelativeDocumentMoniker": "mini_rpg_simulator\\Enemy.cpp",
               "ToolTip": "C:\\Users\\arda4\\Desktop\\Github\\RPG_Simulator_CPP_CONSOLE\\mini_rpg_simulator\\mini_rpg_simulator\\Enemy.cpp",
               "RelativeToolTip": "mini_rpg_simulator\\Enemy.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-25T21:14:33.733Z"
+              "WhenOpened": "2025-05-25T21:14:33.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -71,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "mini_rpg_simulator.cpp",
               "DocumentMoniker": "C:\\Users\\arda4\\Desktop\\Github\\RPG_Simulator_CPP_CONSOLE\\mini_rpg_simulator\\mini_rpg_simulator\\mini_rpg_simulator.cpp",
               "RelativeDocumentMoniker": "mini_rpg_simulator\\mini_rpg_simulator.cpp",
@@ -79,7 +98,8 @@
               "RelativeToolTip": "mini_rpg_simulator\\mini_rpg_simulator.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-25T21:05:26.538Z"
+              "WhenOpened": "2025-05-25T21:05:26.538Z",
+              "EditorCaption": ""
             }
           ]
         }
