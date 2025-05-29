@@ -10,8 +10,8 @@
 class Controller {
 public:
 	std::vector<Enemy*> enemies;
-	void addEnemyToGlobalVector(Enemy* enemy);
-	Enemy* pickRandomEnemy(int level);
-	void kill(int* index);
+	static void addEnemyToGlobalVector(Enemy* enemy);
+	static Enemy* pickRandomEnemy(int level);
+	static void kill(int* index);
 };
 #endif
